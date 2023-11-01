@@ -8,4 +8,4 @@ Important ~~information~~ infomation.
 
 **Bold**
 
-italics
+*italics*
