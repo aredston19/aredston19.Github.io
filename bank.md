@@ -1,4 +1,11 @@
 # Bank Project
 
+## Header 2
 
-This is my bank project
+### Header 3
+
+Important ~~information~~ infomation.
+
+**Bold**
+
+italics
