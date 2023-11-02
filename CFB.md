@@ -1,6 +1,6 @@
 # Everything you want to know about the 2022 CFB season
 
-What is not to love about college football? 131 teams playing games every Saturday can turn into utter chaos at a moment’s notice. From ESPN's college gameday pregame show Saturday mornings to the legendary Pac-12 after dark game, I can’t think of many better ways to spend a Saturday in the fall. 
+What is not to love about college football? 131 teams playing games every Saturday can turn into utter chaos at a moment’s notice. From watching ESPN's college gameday pregame show Saturday mornings to the legendary Pac-12 after dark game, I can’t think of many better ways to spend a Saturday in the fall. 
 
 As part of my data career jumpstart program I decided to visualize a number of metrics from the 2022 college football season using Tableau. The data I used can be found on [kaggle](https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019/code), and also on the NCAA’s website: <https://www.ncaa.com/stats/football/fbs>.
 
@@ -18,7 +18,7 @@ Lastly, on an individual team level there were 13 teams that won 11 or more game
 
 ## Where do teams stack up offensive and defensively? ##
 
-<img src="images/CFBscatter.png?raw=true"/> ~(Scatterplot showing offensive and defensive efficiency)
+<img src="images/CFBscatter.png?raw=true"/> (Scatterplot showing offensive and defensive efficiency)
 
 The scatterplot above shows a team’s defensive rank along the x-axis and offensive rank along the y-axis. The top teams in the country find themselves in the bottom left corner, no surprise to see Georgia as the team with the highest combination of offensive and defensive rank. Teams in the top right were among the worst teams in the country, and Colorado tops that list with FIU and Indiana not far behind. Team’s in the bottom right have high powered offense with putrid defense, and teams in the top left play lock down defense, but can’t score the ball. 
 
@@ -32,10 +32,10 @@ Iowa plays a very ~~niche~~ boring style of football, and has one of the top def
 ### 3. Lincoln Riley might have gone west, but Oklahoma hasn’t realized it yet ###
 Lincoln Riley was the head coach at Oklahoma for five years and during his tenure the Sooners were known for a high powered offense and a lackluster defense. During his Oklahoma tenure, he coached two Heisman winning quarterbacks and another NFL starter. Fast forward to 2022 and Lincoln Riley is now at USC, coaching another Heisman winning quarterback in Caleb Williams, and the Trojans rank number 5 in offensive tilt, but Riley’s old school, Oklahoma, ranks number 3.
 ### 4 Colorado was in really really bad shape ###
-Much has been made in the early part of this year’s college football season about Deion Sanders' turnaround of the Colorado Buffalo program. Colorado, already winners of 4 games, was one of the worst teams in 2022, going 1-11. What I did not expect to see is the Buffalo were bottom 4 on the offensive and defensive side of the ball. A truly stunning feat for a power 5 conference team. 
+Much has been made in the early part of this year’s college football season about Deion Sanders' turnaround of the Colorado Buffalo program. Coach Prime has already led Colorado to 4 wins, greatly exceeding their expectations for the year. Colorado was one of the worst teams in 2022, going 1-11, but just how bad were the Buffalo last year?. Colorado was bottom 4 on the offensive and defensive side of the ball. A truly stunning feat for a power 5 conference team. 
 
 ## Who were the most complete teams in the Country? ##
 
-<img src="images/juggernauts.png?raw=true"/>
+<img src="images/juggernauts.png?raw=true"/> (juggernauts - team ranking top 30 on both offense and defense)
 
 As I mentioned before, Georgia was the only team to finish top 10 on both sides of the ball. Overall, 7 teams finished the season in both the top 30 offense and defenses: Georgia, Ohio St, Alabama, Florida St, Michigan,Utah, and newly promoted FBS school Jame Madison. Three of these teams: Georgia, Michigan, and Ohio St, made the college football playoff; three more: Alabama, Florida St, and Utah, won double digit games. The unexpected team in this category was the James Madison Dukes, who in their first year as an FBS school dominated the early part of the Sun Belt season before faltering down the stretch.
