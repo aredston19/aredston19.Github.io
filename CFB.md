@@ -4,11 +4,12 @@ What is not to love about college football? 131 teams playing games every Saturd
 
 As part of my data career jumpstart program I decided to visualize a number of metrics from the 2022 college football season using Tableau. The data I used can be found on [kaggle](https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019/code), and also on the NCAA’s website: <https://www.ncaa.com/stats/football/fbs>.
 
-There are ~ 150 metrics (columns) being tracked for the 131 FBS schools, ranging the gamut from offensive yards to defensive 4th down percentage to net turnovers per game and everything in between. There are a seemingly endless number of relationships I could have compared, but I tried to keep my initial analysis pretty simple, mostly looking at offensive and defensive efficiency. 
+There are ~ 150 metrics (columns) being tracked for the 131 FBS schools, ranging the gamut from offensive yards to defensive 4th down percentage to net turnovers per game and everything in between. There are a seemingly endless number of relationships I could have compared, but I tried to keep my initial analysis pretty simple, mostly looking at offensive and defensive efficiency and how it relates to a team's record. 
 
 ## Which conference and teams had the most success? ##
 
 <img src="images/conference_wins.png?raw=true"/> (chart showing the number of wins by conference)
+
 
 In the column chart above I start by plotting each team's wins, color coated by conference. It should come as no surprise to anyone that watches college football that the SEC leads the country in average wins with just over 8. The conference has been dominant over the past decade and a half winning 6 of the last 8, and 13 of the last 17 national championships. It also doesn't hurt that the SEC has an 8 game conference scchedule and each team gets to pad its records with an extra G5 or FCS game.
 
@@ -20,7 +21,8 @@ Lastly, on an individual team level there were 13 teams that won 11 or more game
 
 <img src="images/CFBscatter.png?raw=true"/> (Scatterplot showing offensive and defensive efficiency)
 
-The scatterplot above shows a team’s defensive rank along the x-axis and offensive rank along the y-axis. The top teams in the country find themselves in the bottom left corner, no surprise to see Georgia as the team with the highest combination of offensive and defensive rank. Teams in the top right were among the worst teams in the country, and Colorado tops that list with FIU and Indiana not far behind. Team’s in the bottom right have high powered offense with putrid defense, and teams in the top left play lock down defense, but can’t score the ball. 
+
+The scatterplot above shows how all 131 faired in the 2022 with the team’s defensive rank along the x-axis offensive rank along the y-axis, and the size of each team's dot corresponds to win total. The top teams in the country find themselves in the bottom left corner, no surprise to see 15 win and national champion Georgia as the team with the highest combination of offensive and defensive rank. Teams in the top right were among the worst teams in the country, and Colorado tops that list with FIU and Indiana not far behind. Team’s in the bottom right have high powered offense with putrid defense, and teams in the top left play lock down defense, but can’t score the ball. 
 
 In the two tables on the right I also show which team’s defenses most out rank their offense (defensive tilt) and vice versa (offensive tilt). It should come as no surprise that Iowa has the most defensive minded team, with a ranking of 2 and 130 (out of 131). On the offensive side of the ball, it's Georgia Southern with the 18th ranked offense and 129th ranked defense that is most offensively tilted
 
@@ -36,6 +38,7 @@ Much has been made in the early part of this year’s college football season ab
 
 ## Who were the most complete teams in the Country? ##
 
-<img src="images/juggernauts.png?raw=true"/> (juggernauts - team ranking top 30 on both offense and defense)
+<img src="images/juggernauts.png?raw=true"/> (Team ranking top 30 on both offense and defense)
 
-As I mentioned before, Georgia was the only team to finish top 10 on both sides of the ball. Overall, 7 teams finished the season in both the top 30 offense and defenses: Georgia, Ohio St, Alabama, Florida St, Michigan,Utah, and newly promoted FBS school Jame Madison. Three of these teams: Georgia, Michigan, and Ohio St, made the college football playoff; three more: Alabama, Florida St, and Utah, won double digit games. The unexpected team in this category was the James Madison Dukes, who in their first year as an FBS school dominated the early part of the Sun Belt season before faltering down the stretch.
+
+As I mentioned before, Georgia was the only team to finish top 10 on both sides of the ball. Overall, 7 teams finished the season in both the top 30 offense and defenses: Georgia, Ohio St, Alabama, Florida St, Michigan,Utah, and newly promoted FBS school James Madison. Three of these teams: Georgia, Michigan, and Ohio St, made the college football playoff; three more: Alabama, Florida St, and Utah, won double digit games. The unexpected team in this category was the James Madison Dukes, who in their first year as an FBS school, dominated the early part of the Sun Belt season before faltering down the stretch.
