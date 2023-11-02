@@ -9,7 +9,7 @@ There are ~ 150 metrics (columns) being tracked for the 131 FBS schools, ranging
 ## Which conference and teams had the most success? ##
 
 <img src="images/conference_wins.png?raw=true"/> 
-(chart showing the number of wins by conference)
+*(Chart showing the number of wins by conference)*
 
 
 In the column chart above I start by plotting each team's wins, color coated by conference. It should come as no surprise to anyone that watches college football that the SEC leads the country in average wins with just over 8. The conference has been dominant over the past decade and a half winning 6 of the last 8, and 13 of the last 17 national championships. It also doesn't hurt that the SEC has an 8 game conference scchedule and each team gets to pad its records with an extra G5 or FCS game.
@@ -21,8 +21,8 @@ Lastly, on an individual team level there were 13 teams that won 11 or more game
 ## Where do teams stack up offensive and defensively? ##
 
 <img src="images/CFBscatter.png?raw=true"/> 
-<figcaption>(Scatterplot showing offensive and defensive efficiency)</figcaption>
-(Scatterplot showing offensive and defensive efficiency)
+*(Scatterplot showing offensive and defensive efficiency)*
+
 
 The scatterplot above shows how all 131 faired in the 2022 with the team’s defensive rank along the x-axis offensive rank along the y-axis, and the size of each team's dot corresponds to win total. The top teams in the country find themselves in the bottom left corner, no surprise to see 15 win and national champion Georgia as the team with the highest combination of offensive and defensive rank. Teams in the top right were among the worst teams in the country, and Colorado tops that list with FIU and Indiana not far behind. Team’s in the bottom right have high powered offense with putrid defense, and teams in the top left play lock down defense, but can’t score the ball. 
 
@@ -40,7 +40,8 @@ Much has been made in the early part of this year’s college football season ab
 
 ## Who were the most complete teams in the Country? ##
 
-<img src="images/juggernauts.png?raw=true"/> (Team ranking top 30 on both offense and defense)
+<img src="images/juggernauts.png?raw=true"/> 
+*(Team ranking top 30 on both offense and defense)*
 
 
 As I mentioned before, Georgia was the only team to finish top 10 on both sides of the ball. Overall, 7 teams finished the season in both the top 30 offense and defenses: Georgia, Ohio St, Alabama, Florida St, Michigan,Utah, and newly promoted FBS school James Madison. Three of these teams: Georgia, Michigan, and Ohio St, made the college football playoff; three more: Alabama, Florida St, and Utah, won double digit games. The unexpected team in this category was the James Madison Dukes, who in their first year as an FBS school, dominated the early part of the Sun Belt season before faltering down the stretch.
