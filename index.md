@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [Indianapolis Monumnetal Marathon 2023](https://www.linkedin.com/pulse/2023-indianapolis-monumental-marathon-andrew-redston-xk2kc%3FtrackingId=jZCB%252FYHmS8SggNaE2l%252FQpA%253D%253D/?trackingId=jZCB%2FYHmS8SggNaE2l%2FQpA%3D%3D)
-[<images/Pace Per Mile.png>](https://www.linkedin.com/feed/update/urn:li:activity:7124915392812122113/)
+[<img src="images/Pace Per Mile.png?raw=true"/>](https://www.linkedin.com/feed/update/urn:li:activity:7124915392812122113/)
 My post Indianapolis Monumental Marathon recap. I used data visualizations to tell the story of my 26.2 mile race.
 
 
