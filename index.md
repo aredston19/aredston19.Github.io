@@ -14,13 +14,13 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+#### [Indianapolis Monumnetal Marathon 2023](https://www.linkedin.com/pulse/2023-indianapolis-monumental-marathon-andrew-redston-xk2kc%3FtrackingId=jZCB%252FYHmS8SggNaE2l%252FQpA%253D%253D/?trackingId=jZCB%2FYHmS8SggNaE2l%2FQpA%3D%3D)
+[<images/Pace Per Mile.png>](https://www.linkedin.com/pulse/2023-indianapolis-monumental-marathon-andrew-redston-xk2kc%3FtrackingId=jZCB%252FYHmS8SggNaE2l%252FQpA%253D%253D/?trackingId=jZCB%2FYHmS8SggNaE2l%2FQpA%3D%3D)
+My post Indianapolis Monumental Marathon recap. I used data visualizations to tell the story of my 26.2 mile race.
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Massachusetts Education Project](https://www.linkedin.com/pulse/2023-indianapolis-monumental-marathon-andrew-redston-xk2kc%3FtrackingId=jZCB%252FYHmS8SggNaE2l%252FQpA%253D%253D/?trackingId=jZCB%2FYHmS8SggNaE2l%2FQpA%3D%3D)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/feed/update/urn:li:activity:7123414493933506560/)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
