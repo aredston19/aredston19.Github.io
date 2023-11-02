@@ -19,6 +19,7 @@ Additionally, on an individual team level there were 13 teams that won 11 or mor
 
 ## Where do teams stack up offensive and defensively? ##
 
+<img src="images/juggernauts.png?raw=true"/>
 
 The scatterplot shows a team’s defensive rank along the x-axis and offensive rank along the y-axis. The top teams in the country find themselves in the bottom left corner, no surprise to see Georgia as the team with the highest combination of offensive and defensive rank. Teams in the top right were among the worst teams in the country, and Colorado tops that list with FIU and Indiana not far behind. Team’s in the bottom right have high powered offense with putrid defense, and teams in the top left play lock down defense, but can’t score the ball. 
 
@@ -36,7 +37,6 @@ Much has been made in the early part of this year’s college football season ab
 
 ## Who were the most complete teams in the Country? ##
 
+<img src="images/juggernauts.png?raw=true"/>
+
 As I mentioned before, Georgia was the only team to finish top 10 on both sides of the ball. Overall, 7 teams finished the season in both the top 30 offense and defenses: Georgia, Ohio St, Alabama, Florida St, Michigan,Utah, and newly promoted FBS school Jame Madison. Three of these teams: Georgia, Michigan, and Ohio St, made the college football playoff; three more: Alabama, Florida St, and Utah, won double digit games. The unexpected team in this category was the James Madison Dukes, who in their first year as an FBS school dominated the early part of the Sun Belt season before faltering down the stretch.
-
-~~scratch~~
-
