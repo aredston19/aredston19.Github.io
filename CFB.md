@@ -2,7 +2,7 @@
 
 What is not to love about college football? 131 teams playing games every Saturday can turn into utter chaos at a moment’s notice. From ESPN's college gameday pregame show Saturday mornings to the legendary Pac-12 after dark game, I can’t think of many better ways to spend a Saturday in the fall. 
 
-As part of my data career jumpstart program I decided to visualize a number of metrics from the 2022 college football season.  The data I used can be found on kaggle: <[kaggle>](https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019/code), and also on the NCAA’s website: <https://www.ncaa.com/stats/football/fbs>
+As part of my data career jumpstart program I decided to visualize a number of metrics from the 2022 college football season.  The data I used can be found on kaggle: [kaggle](https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019/code), and also on the NCAA’s website: <https://www.ncaa.com/stats/football/fbs>
 
 There are ~ 150 metrics (columns) being tracked for the 131 FBS schools, ranging the gamut from offensive yards to defensive 4th down percentage to net turnovers per game and everything in between. There are a seemingly endless number of relationships I could have compared, but I tried to keep my initial analysis pretty simple, mostly looking at offensive and defensive efficiency. 
 
