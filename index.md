@@ -21,7 +21,7 @@ My post Indianapolis Monumental Marathon recap. I used data visualizations to te
 
 ---
 #### [Massachusetts Education Project](https://www.linkedin.com/pulse/massachusetts-education-project-andrew-redston-wv5de%3FtrackingId=GQjhcl%252FkRfqYXLpvhDE8Rg%253D%253D/?trackingId=GQjhcl%2FkRfqYXLpvhDE8Rg%3D%3D)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/feed/update/urn:li:activity:7123414493933506560/)
+[<img src="images/Massachusetts Education Project.png?raw=true"/>](https://www.linkedin.com/feed/update/urn:li:activity:7123414493933506560/)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
