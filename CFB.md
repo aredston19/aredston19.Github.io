@@ -8,6 +8,8 @@ There are ~ 150 metrics (columns) being tracked for the 131 FBS schools, ranging
 
 ## Which conference and teams had the most success? ##
 
+<img src="images/conference_wins.png?raw=true"/>
+
 It should come as no surprise to anyone that watches college football that the SEC leads the country in average wins with just over 8. The conference has been dominant over the past decade and a half winning 6 of the last 8, and 13 of the last 17 national championships. 
 
 The once great defenses of the SEC are no more, it is actually the Big Ten, led by Iowa, Illinois, and Michigan, that has the strongest conference defensively. Additionally, the Big 12 led by Oklahoma, Texas Tech, and TCU that boasts the strongest conference offensively.
