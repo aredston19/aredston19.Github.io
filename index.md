@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/CFB.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ESPNcfp.jpeg?raw=true"/>
 Tolulope is the best
 
 ---
