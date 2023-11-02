@@ -23,13 +23,13 @@ The scatterplot shows a team’s defensive rank along the x-axis and offensive r
 In the two tables on the right I also show which team’s defenses most out rank their offense (defensive tilt) and vice versa (offensive tilt). It should come as no surprise that Iowa has the most defensive minded team, with a ranking of 2 and 130 (out of 131). On the offensive side of the ball, it's Georgia Southern with the 18th ranked offense and 129th ranked defense that is most offensively tilted
 
 My main takeaways from this this scatterplot are:
-### 1 Georgia really was head in shoulders above the rest of the country###
+### 1 Georgia really was head in shoulders above the rest of the country ###
 Georgia was the only team in the country to be top 10 in both offense and defense, and one of seven teams to be top 30 on both sides of the ball.
-### 2. Never change Iowa###
+### 2. Never change Iowa ###
 Iowa has one of the top defenses in the country year in and year out, and this year was no exception, ranking number 2 in the nation. The offense on the other hand was an embarrassment ranking 130 out of 131 teams, the team’s defensive tilt score of 128 is only two points away from the highest possible value. The offense was so dysfunctional that a stipulation for the 2023 season was included in offensive coordinator Brian Ferentz’ contract requiring the team to score 25 points a game in order for him to keep his job. Midway through the 2023 season, it does not appear Iowa, currently averaging 19.5 points per game, will reach that target.
-### 3. Lincoln Riley might have gone west, but Oklahoma hasn’t realized it yet###
+### 3. Lincoln Riley might have gone west, but Oklahoma hasn’t realized it yet ###
 Lincoln Riley was the head coach at Oklahoma for five years and during his tenure the Sooners were known for a high powered offense and a lackluster defense. During his tenure, he coached two Heisman winning quarterbacks and another NFL starter. Fast forward to 2022 and Lincoln Riley is now at USC, coaching another Heisman winning quarterback in Caleb Williams, and the Trojans rank number 5 in offensive tilt, but Riley’s old school, Oklahoma, ranks number 3.
-### 4 Colorado was in really really bad shape###
+### 4 Colorado was in really really bad shape ###
 Much has been made in the early part of this year’s college football season about Deion Sanders' turnaround of the Colorado Buffalo program. Colorado, already winners of 4 games, was one of the worst teams in 2022 going 1-11. What I did not expect to see is the Buffalo were bottom 4 on the offensive and defensive side of the ball. A truly stunning feat for a power 5 conference team. 
 
 ## Who were the most complete teams in the Country? ##
