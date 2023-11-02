@@ -6,7 +6,7 @@
 
 #### [Internal Blog Post Project](/CFB.md)
 <img src="images/ESPNcfp.jpeg?raw=true"/>
-Tolulope is the best
+2021-2022 CFP National Championship
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
