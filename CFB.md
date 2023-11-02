@@ -2,13 +2,14 @@
 
 What is not to love about college football? 131 teams playing games every Saturday can turn into utter chaos at a moment’s notice. From watching ESPN's college gameday pregame show Saturday mornings to the legendary Pac-12 after dark game, I can’t think of many better ways to spend a Saturday in the fall. 
 
-As part of my data career jumpstart program I decided to visualize a number of metrics from the 2022 college football season using Tableau. The data I used can be found on [kaggle](https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019/code), and also on the NCAA’s website: <https://www.ncaa.com/stats/football/fbs>.
+As part of my Data Career Jumpstart program I decided to visualize a number of metrics from the 2022 college football season using Tableau. The data I used can be found on [kaggle](https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019/code), and also on the NCAA’s website: <https://www.ncaa.com/stats/football/fbs>.
 
 There are ~ 150 metrics (columns) being tracked for the 131 FBS schools, ranging the gamut from offensive yards to defensive 4th down percentage to net turnovers per game and everything in between. There are a seemingly endless number of relationships I could have compared, but I tried to keep my initial analysis pretty simple, mostly looking at offensive and defensive efficiency and how it relates to a team's record. 
 
 ## Which conference and teams had the most success? ##
 
-<img src="images/conference_wins.png?raw=true"/> (chart showing the number of wins by conference)
+<img src="images/conference_wins.png?raw=true"/> 
+(chart showing the number of wins by conference)
 
 
 In the column chart above I start by plotting each team's wins, color coated by conference. It should come as no surprise to anyone that watches college football that the SEC leads the country in average wins with just over 8. The conference has been dominant over the past decade and a half winning 6 of the last 8, and 13 of the last 17 national championships. It also doesn't hurt that the SEC has an 8 game conference scchedule and each team gets to pad its records with an extra G5 or FCS game.
@@ -19,8 +20,9 @@ Lastly, on an individual team level there were 13 teams that won 11 or more game
 
 ## Where do teams stack up offensive and defensively? ##
 
-<img src="images/CFBscatter.png?raw=true"/> (Scatterplot showing offensive and defensive efficiency)
-
+<img src="images/CFBscatter.png?raw=true"/> 
+<figcaption>(Scatterplot showing offensive and defensive efficiency)</figcaption>
+(Scatterplot showing offensive and defensive efficiency)
 
 The scatterplot above shows how all 131 faired in the 2022 with the team’s defensive rank along the x-axis offensive rank along the y-axis, and the size of each team's dot corresponds to win total. The top teams in the country find themselves in the bottom left corner, no surprise to see 15 win and national champion Georgia as the team with the highest combination of offensive and defensive rank. Teams in the top right were among the worst teams in the country, and Colorado tops that list with FIU and Indiana not far behind. Team’s in the bottom right have high powered offense with putrid defense, and teams in the top left play lock down defense, but can’t score the ball. 
 
