@@ -15,8 +15,7 @@ The once great defenses of the SEC are no more, it is actually the Big Ten, led 
 Additionally, on an individual team level there were 13 teams that won 11 or more games this past year. 
 
 
-Where do teams stack up offensive and defensively?
-
+## Where do teams stack up offensive and defensively? ##
 
 
 The scatterplot shows a team’s defensive rank along the x-axis and offensive rank along the y-axis. The top teams in the country find themselves in the bottom left corner, no surprise to see Georgia as the team with the highest combination of offensive and defensive rank. Teams in the top right were among the worst teams in the country, and Colorado tops that list with FIU and Indiana not far behind. Team’s in the bottom right have high powered offense with putrid defense, and teams in the top left play lock down defense, but can’t score the ball. 
