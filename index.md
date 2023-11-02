@@ -6,7 +6,7 @@
 
 #### [College Football 2022 Season in Review](/CFB.md)
 <img src="images/ESPNcfp.jpeg?raw=true"/>
-2022-2023 CFP National Championship game
+2022-2023 CFP National Championship game (Photo from espn)
 
 ---
 #### [Indianapolis Monumnetal Marathon 2023](https://www.linkedin.com/pulse/2023-indianapolis-monumental-marathon-andrew-redston-xk2kc%3FtrackingId=jZCB%252FYHmS8SggNaE2l%252FQpA%253D%253D/?trackingId=jZCB%2FYHmS8SggNaE2l%2FQpA%3D%3D)
