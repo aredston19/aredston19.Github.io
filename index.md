@@ -3,14 +3,12 @@
 ---
 
 ## Learn About My Projects
-### Learn About My Projects
 
 #### [College Football 2022 Season in Review](/CFB.md)
 <img src="images/ESPNcfp.jpeg?raw=true"/>
 2022-2023 CFP National Championship game (Photo from espn)
 
 ---
-
 #### [World Bank](/bank.md)
 <img src="images/World Bank Day LinkedIn Post.jpg?raw=true"/>
 World Bank
