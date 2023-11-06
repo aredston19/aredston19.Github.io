@@ -19,12 +19,12 @@ SQL is a vast landscape and there is a . Today I’ll introduce 10 of the most i
 9. GROUP BY
 10. MIN/ MAX
 
-SELECT *
-FROM world_bank
+__SELECT *__
+__FROM world_bank__
 
-SELECT *
-FROM world_bank
-LIMIT 10
+__SELECT *__
+__FROM world_bank__
+__LIMIT 10__
 
 
 <img src="images/WB_2.png?raw=true"/> 
@@ -40,11 +40,11 @@ Query1
 
 
 
-SELECT *
-FROM world_bank
-WHERE Country = 'Chile'
-ORDER BY "Original Principal Amount"
-LIMIT 10
+__SELECT *__
+__FROM world_bank__
+__WHERE Country = 'Chile'__
+__ORDER BY "Original Principal Amount"__
+__LIMIT 10__
 
 <img src="images/WB_7.png?raw=true"/> 
 Query7
@@ -54,8 +54,8 @@ In this second query we are expanding on the original query to both filter and s
 
 The WHERE clause allows you to filter you data on many different criteria. In this case we are filtering for all data related to the country Chile. Additionally, we can sort our data based on principal loan amount, the standard ORDER BY syntax will sort from smallest to largest for numerical data or alphabetically for qualitative data.You can include the phrase “DESC” to sort your queries in reverse order
 
-SELECT COUNT(*)
-FROM world_bank
+__SELECT COUNT(*)__
+__FROM world_bank__
 
 
 
@@ -88,7 +88,7 @@ While I wrap up this introduction to SQL article I want to introduce two more us
 
 Two other convenient calculations you can take from your data are MIN & MAX which as you would expect return the lowest and highest values for a column. In this example, it returns the lowest and highest values for each of the 13 regions that the world bank keeps data.
 
-**Conclusion**
+### Conclusion ###
 
 SQL is a great took to learn and the ebay way to get better at it is to practice practice practice with a dataset. In order to pratice, I have been working on the web browser csvfiddle.io, which allows you to 
 
