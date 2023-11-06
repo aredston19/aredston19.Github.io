@@ -26,6 +26,9 @@ SELECT *
 FROM world_bank
 LIMIT 10
 
+<img src="images/wb_1.png?raw=true"/> 
+Query
+
 The two most important commands and the only two required in every SQL query are SELECT & FROM. 
 
 The SELECT function begins each query and FROM dictates which database you will be searching. With over 1.1 million rows of data, this database has too much data to display,which leads us to our next key phrase LIMIT, which caps the search at a specific number of rows. This is an important feature if you want to see the partial results of a larger query.
