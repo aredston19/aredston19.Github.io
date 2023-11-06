@@ -26,8 +26,6 @@ SELECT *
 FROM world_bank
 LIMIT 10
 
-<img src="images/WB_1.png?raw=true"/> 
-Query1
 
 <img src="images/WB_2.png?raw=true"/> 
 Query2
@@ -37,10 +35,20 @@ The two most important commands and the only two required in every SQL query are
 
 The SELECT function begins each query and FROM dictates which database you will be searching. With over 1.1 million rows of data, this database has too much data to display,which leads us to our next key phrase LIMIT, which caps the search at a specific number of rows. This is an important feature if you want to see the partial results of a larger query.
 
+<img src="images/WB_1.png?raw=true"/> 
+Query1
+
+
+
 SELECT *
 FROM world_bank
 WHERE Country = 'Chile'
 ORDER BY "Original Principal Amount"
+LIMIT 10
+
+<img src="images/WB_7.png?raw=true"/> 
+Query7
+
 
 In this second query we are expanding on the original query to both filter and sort our data.
 
@@ -53,18 +61,26 @@ FROM world_bank
 
 In addition to querying the data you can also perform calculations. One of the easiest calcualtiosn to perform is counting the records of your data. In this case, we see there are ~1.1 million records in our database. One thing to note is unless you tell SQL what to rename your columns, it will default to a very literally/ messy title from the query. Which bring us to our next command.
 
+<img src="images/WB_3.png?raw=true"/> 
+(Due)
 
 
 
+<img src="images/WB_4.png?raw=true"/> 
+(Query2)
 
 
 In addition to just counting data you can also perform calculations on the data. Let’s suppose you want to see the total amount due to the International Development Agency, you can SELECT a SUM of the entire column. 
 
 SQL will default to naming any calculated fields exactly what is in the query, so instead of having a messy column header you can use the AS function to rename your columns. See above I have the same column twice in a row, but the second time I use AS to more conveniently rename the column. 
 
+<img src="images/WB_5.png?raw=true"/> 
+A
 
 
 
+<img src="images/WB_6.png?raw=true"/> 
+B
 
 
 
@@ -72,7 +88,7 @@ While I wrap up this introduction to SQL article I want to introduce two more us
 
 Two other convenient calculations you can take from your data are MIN & MAX which as you would expect return the lowest and highest values for a column. In this example, it returns the lowest and highest values for each of the 13 regions that the world bank keeps data.
 
-Conclusion
+**Conclusion**
 
 SQL is a great took to learn and the ebay way to get better at it is to practice practice practice with a dataset. In order to pratice, I have been working on the web browser csvfiddle.io, which allows you to 
 
