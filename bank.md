@@ -1,4 +1,4 @@
-# international monetary fund #
+# World Bank SQL Project #
 
 Data Career JumpStart week 4. In this module I’m exploring SQL, a crucial tool for data analysts when exploring large data sets. SQL allows you to query your data and find important insights in a matter or no time. 
 
