@@ -2,11 +2,15 @@
 
 ---
 
-### Learn About My Projects
+## Learn About My Projects
 
 #### [College Football 2022 Season in Review](/CFB.md)
 <img src="images/ESPNcfp.jpeg?raw=true"/>
 2022-2023 CFP National Championship game (Photo from espn)
+
+---
+
+
 
 ---
 #### [Indianapolis Monumnetal Marathon 2023](https://www.linkedin.com/pulse/2023-indianapolis-monumental-marathon-andrew-redston-xk2kc%3FtrackingId=jZCB%252FYHmS8SggNaE2l%252FQpA%253D%253D/?trackingId=jZCB%2FYHmS8SggNaE2l%2FQpA%3D%3D)
@@ -24,7 +28,7 @@ What are the top math schools in the state?
 
 ---
 
-### Additional Projects
+## Additional Projects
 
 - [Indianapolis Monumnetal Marathon 2023](https://www.linkedin.com/pulse/2023-indianapolis-monumental-marathon-andrew-redston-xk2kc%3FtrackingId=jZCB%252FYHmS8SggNaE2l%252FQpA%253D%253D/?trackingId=jZCB%2FYHmS8SggNaE2l%2FQpA%3D%3D)
 - [iFood Analysis](https://www.linkedin.com/pulse/ding-dong-delivery-food-andrew-redston%3FtrackingId=SFhDmv7hQVKCJlGObaHFKA%253D%253D/?trackingId=SFhDmv7hQVKCJlGObaHFKA%3D%3D)
