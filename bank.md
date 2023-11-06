@@ -26,8 +26,12 @@ SELECT *
 FROM world_bank
 LIMIT 10
 
-<img src="images/wb_1.png?raw=true"/> 
-Query
+<img src="images/WB_1.png?raw=true"/> 
+Query1
+
+<img src="images/WB_2.png?raw=true"/> 
+Query2
+
 
 The two most important commands and the only two required in every SQL query are SELECT & FROM. 
 
