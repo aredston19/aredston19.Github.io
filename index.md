@@ -12,8 +12,8 @@
 ---
 
 #### [World Bank](/bank.md)
-<img src="images/ESPNcfp.jpeg?raw=true"/>
-?
+<img src="images/World Bank Day LinkedIn Post.jpg?raw=true"/>
+World Bank
 
 
 ---
