@@ -36,19 +36,9 @@ The two most important commands and the only two required in every SQL query are
 
 The SELECT function begins each query and FROM dictates which database you will be searching. With over 1.1 million rows of data, this database has too much data to display,which leads us to our next key phrase LIMIT, which caps the search at a specific number of rows. This is an important feature if you want to see the partial results of a larger query.
 
-
-__SELECT *__
-
-__FROM world_bank__
-
-__WHERE Country = 'Chile'__
-
-__ORDER BY "Original Principal Amount"__
-
-__LIMIT 10__
+<img src="images/WB_8.png?raw=true"/> 
 
 <img src="images/WB_7.png?raw=true"/> 
-
 
 In this second query we are expanding on the original query to both filter and sort our data.
 
