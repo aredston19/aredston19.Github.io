@@ -22,13 +22,16 @@ SQL is a vast landscape and there is a . Today I’ll introduce 10 of the most i
 __SELECT *__
 
 __FROM world_bank__
+
 (returns full database)
+
 
 __SELECT *__
 
 __FROM world_bank__
 
 __LIMIT 10__
+
 (returns first 10 rows of the database)
 
 
