@@ -1,10 +1,8 @@
 # World Bank SQL Project #
 
-Data Career JumpStart week 4. In this module I’m exploring SQL, a crucial tool for data analysts when exploring large data sets. SQL allows you to query your data and find important insights in a matter or no time. 
+For my latest Data Career Jumpstart project, I dive into the world of SQL. Last week I mentioned a few of the most important SQL commands, and in this project I show examples of how and when to use each of the functions and introduce several more. SQL is a crucial tool for data analysts when exploring large data sets. SQL allows you to manage and query your data in order to find important insights in a matter of no time. 
 
-In this module I am analyzing data from the world bank about loans made by the International Development Agency (IDA) to different countries. The csv file contains 30 data points (columns) for 1,109,994 records (rows), which would make it almost impossible to analyze in excel. With that much data an excel workbook is incapable of performing even the most basic calculation tasks like sum, count, etc. Much less trying to perform a more intensive task like a v-lookup or pivot table. 
-
-When we turn our attention to SQL, it is important to know what we are looking for. In order to see the data we are working with we begin with the most basic of queries.
+In this project I am analyzing data from the world bank about loans made by the International Development Agency (IDA) to different countries. The csv file contains 30 data points (columns) including: country name, project ID, loan amount, etc. for 1,109,994 records (rows). With that much data an excel workbook is incapable of performing even the most basic calculation tasks like sum, count, etc, much less trying to perform a more intensive task like a v-lookup or pivot table. The volume of this dataset makes it nearly impossible to analyze in excel, which is when SQL comes in to save the day.
 
 SQL is a vast landscape and there is a . Today I’ll introduce 10 of the most important commands in SQL:
 
@@ -18,6 +16,9 @@ SQL is a vast landscape and there is a . Today I’ll introduce 10 of the most i
 8. AS
 9. GROUP BY
 10. MIN/ MAX
+
+When we turn our attention to SQL, it is important to know what we are looking for. In order to see the data we are working with we begin with the most basic of queries:
+
 
 __SELECT *__
 
@@ -48,7 +49,7 @@ The SELECT function begins each query and FROM dictates which database you will 
 
 In this second query we are expanding on the original query to both filter and sort our data.
 
-The WHERE clause allows you to filter you data on many different criteria. In this case we are filtering for all data related to the country Chile. Additionally, we can sort our data based on principal loan amount, the standard ORDER BY syntax will sort from smallest to largest for numerical data or alphabetically for qualitative data.You can include the phrase “DESC” to sort your queries in reverse order
+The WHERE clause allows you to filter you data on one or many different criteria. In this case we are filtering for all data related to the country Chile. Additionally, we can sort our data based on principal loan amount, the standard ORDER BY syntax will sort from smallest to largest for numerical data or alphabetically for qualitative data.You can include the phrase “DESC” to sort your queries in reverse order
 
 __SELECT COUNT(*)__
 
@@ -58,13 +59,13 @@ __FROM world_bank__
 <img src="images/WB_2.png?raw=true"/> 
 
 
-In addition to querying the data you can also perform calculations. One of the easiest calcualtiosn to perform is counting the records of your data. In this case, we see there are ~1.1 million records in our database. One thing to note is unless you tell SQL what to rename your columns, it will default to a very literally/ messy title from the query. Which bring us to our next command.
+In addition to querying the data you can also perform calculations. One of the easiest calcualtion sto perform is counting the records of your data. In this case, we see there are ~1.1 million records in our database. One thing to note is unless you tell SQL what to name your columns, it will default to a very literal/ messy title from the query. Which bring us to our next command.
 
 <img src="images/WB_3.png?raw=true"/> 
 <img src="images/WB_4.png?raw=true"/> 
 
 
-In addition to just counting data you can also perform calculations on the data. Let’s suppose you want to see the total amount due to the International Development Agency, you can SELECT a SUM of the entire column. 
+In addition to just counting data there are many other calculations you can perform on the data. Let’s suppose you want to see the total amount due to the International Development Agency, you can SELECT a SUM of the entire column. 
 
 SQL will default to naming any calculated fields exactly what is in the query, so instead of having a messy column header you can use the AS function to rename your columns. See above I have the same column twice in a row, but the second time I use AS to more conveniently rename the column. 
 
