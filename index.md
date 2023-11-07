@@ -1,9 +1,7 @@
 # Welcome to My Portfolio
 
 ---
-
 ## Learn About My Projects
-
 #### [College Football 2022 Season in Review](/CFB.md)
 <img src="images/ESPNcfp.jpeg?raw=true"/>
 2022-2023 CFP National Championship game (Photo from espn)
