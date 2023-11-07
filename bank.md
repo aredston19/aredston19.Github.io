@@ -30,7 +30,6 @@ __FROM world_bank__
 __LIMIT 10__
 
 <img src="images/WB_1.png?raw=true"/> 
-Query1
 
 
 The two most important commands and the only two required in every SQL query are SELECT & FROM. 
@@ -49,7 +48,6 @@ __ORDER BY "Original Principal Amount"__
 __LIMIT 10__
 
 <img src="images/WB_7.png?raw=true"/> 
-Query7
 
 
 In this second query we are expanding on the original query to both filter and sort our data.
@@ -62,7 +60,6 @@ __FROM world_bank__
 
 
 <img src="images/WB_2.png?raw=true"/> 
-Query2
 
 
 In addition to querying the data you can also perform calculations. One of the easiest calcualtiosn to perform is counting the records of your data. In this case, we see there are ~1.1 million records in our database. One thing to note is unless you tell SQL what to rename your columns, it will default to a very literally/ messy title from the query. Which bring us to our next command.
