@@ -78,6 +78,6 @@ While I wrap up this introduction to SQL article I want to introduce two more us
 Two other convenient calculations you can take from your data are MIN & MAX which as you would expect return the lowest and highest values for a column. In this example, it returns the lowest and highest values for each of the 13 regions that the world bank keeps data.
 
 ### Conclusion ###
-
-SQL is a great took to learn and the ebay way to get better at it is to practice practice practice with a dataset. In order to pratice, I have been working on the web browser csvfiddle.io, which allows you to 
+SQL is a great tool to learn and invaluable for data analysts, but it isn't easy to pick up right away. The best way to get better at it is to practice practice practice; speifically practice with a dataset you find interesting, that you are interested in uncovering insights about. 
+SQL may seem overwhelming for someone who has never used it. If you are interested in learning SQL but don't know where to start, csvfiddle.io is a great place to begin. CSV Fiddle is a web browser that allows you to upload a csv file and begin practicing SQL without needing to download any applications to your computer. 
 
