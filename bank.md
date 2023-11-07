@@ -19,6 +19,8 @@ SQL is a vast landscape and there is a . Today I’ll introduce 10 of the most i
 
 When we turn our attention to SQL, it is important to know what we are looking for. In order to see the data we are working with we begin with the most basic of queries:
 
+#### Select, From, Limit ####
+
 
 __SELECT *__
 
@@ -43,6 +45,8 @@ The two most important commands and the only two required in every SQL query are
 
 The SELECT function begins each query and FROM dictates which database you will be searching. With over 1.1 million rows of data, this database has too much data to display,which leads us to our next key phrase LIMIT, which caps the search at a specific number of rows. This is an important feature if you want to see the partial results of a larger query.
 
+#### Where & Order By ####
+
 <img src="images/WB_8.png?raw=true"/> 
 
 <img src="images/WB_7.png?raw=true"/> 
@@ -50,6 +54,9 @@ The SELECT function begins each query and FROM dictates which database you will 
 In this second query we are expanding on the original query to both filter and sort our data.
 
 The WHERE clause allows you to filter you data on one or many different criteria. In this case we are filtering for all data related to the country Chile. Additionally, we can sort our data based on principal loan amount, the standard ORDER BY syntax will sort from smallest to largest for numerical data or alphabetically for qualitative data.You can include the phrase “DESC” to sort your queries in reverse order
+
+
+#### Count ####
 
 __SELECT COUNT(*)__
 
@@ -61,13 +68,17 @@ __FROM world_bank__
 
 In addition to querying the data you can also perform calculations. One of the easiest calcualtion sto perform is counting the records of your data. In this case, we see there are ~1.1 million records in our database. One thing to note is unless you tell SQL what to name your columns, it will default to a very literal/ messy title from the query. Which bring us to our next command.
 
+
+#### Sum & As ####
+
 <img src="images/WB_3.png?raw=true"/> 
 <img src="images/WB_4.png?raw=true"/> 
-
 
 In addition to just counting data there are many other calculations you can perform on the data. Let’s suppose you want to see the total amount due to the International Development Agency, you can SELECT a SUM of the entire column. 
 
 SQL will default to naming any calculated fields exactly what is in the query, so instead of having a messy column header you can use the AS function to rename your columns. See above I have the same column twice in a row, but the second time I use AS to more conveniently rename the column. 
+
+#### Group By & Min/ Max ####
 
 <img src="images/WB_5.png?raw=true"/> 
 <img src="images/WB_6.png?raw=true"/>
