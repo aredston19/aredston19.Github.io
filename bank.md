@@ -20,30 +20,32 @@ SQL is a vast landscape and there is a . Today I’ll introduce 10 of the most i
 10. MIN/ MAX
 
 __SELECT *__
+
 __FROM world_bank__
 
 __SELECT *__
+
 __FROM world_bank__
+
 __LIMIT 10__
 
-
-<img src="images/WB_2.png?raw=true"/> 
-Query2
+<img src="images/WB_1.png?raw=true"/> 
+Query1
 
 
 The two most important commands and the only two required in every SQL query are SELECT & FROM. 
 
 The SELECT function begins each query and FROM dictates which database you will be searching. With over 1.1 million rows of data, this database has too much data to display,which leads us to our next key phrase LIMIT, which caps the search at a specific number of rows. This is an important feature if you want to see the partial results of a larger query.
 
-<img src="images/WB_1.png?raw=true"/> 
-Query1
-
-
 
 __SELECT *__
+
 __FROM world_bank__
+
 __WHERE Country = 'Chile'__
+
 __ORDER BY "Original Principal Amount"__
+
 __LIMIT 10__
 
 <img src="images/WB_7.png?raw=true"/> 
@@ -55,8 +57,12 @@ In this second query we are expanding on the original query to both filter and s
 The WHERE clause allows you to filter you data on many different criteria. In this case we are filtering for all data related to the country Chile. Additionally, we can sort our data based on principal loan amount, the standard ORDER BY syntax will sort from smallest to largest for numerical data or alphabetically for qualitative data.You can include the phrase “DESC” to sort your queries in reverse order
 
 __SELECT COUNT(*)__
+
 __FROM world_bank__
 
+
+<img src="images/WB_2.png?raw=true"/> 
+Query2
 
 
 In addition to querying the data you can also perform calculations. One of the easiest calcualtiosn to perform is counting the records of your data. In this case, we see there are ~1.1 million records in our database. One thing to note is unless you tell SQL what to rename your columns, it will default to a very literally/ messy title from the query. Which bring us to our next command.
