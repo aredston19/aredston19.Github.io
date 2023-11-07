@@ -4,7 +4,7 @@ For my latest Data Career Jumpstart project, I dive into the world of SQL. Last 
 
 In this project I am analyzing data from the world bank about loans made by the International Development Agency (IDA) to different countries. The csv file contains 30 data points (columns) including: country name, project ID, loan amount, etc. for 1,109,994 records (rows). With that much data an excel workbook is incapable of performing even the most basic calculation tasks like sum, count, etc, much less trying to perform a more intensive task like a v-lookup or pivot table. The volume of this dataset makes it nearly impossible to analyze in excel, which is when SQL comes in to save the day.
 
-SQL is a vast landscape and there is a . Today I’ll introduce 10 of the most important commands in SQL:
+SQL is a vast landscape with countless benefits for data analysts and business professionals everywhere. Today I’ll introduce 10 of the most important commands in SQL:
 
 1. SELECT
 2. FROM
@@ -19,7 +19,7 @@ SQL is a vast landscape and there is a . Today I’ll introduce 10 of the most i
 
 When we turn our attention to SQL, it is important to know what we are looking for. In order to see the data we are working with we begin with the most basic of queries:
 
-#### Select, From, Limit ####
+## Select, From, Limit ##
 
 
 __SELECT *__
@@ -45,7 +45,7 @@ The two most important commands and the only two required in every SQL query are
 
 The SELECT function begins each query and FROM dictates which database you will be searching. With over 1.1 million rows of data, this database has too much data to display,which leads us to our next key phrase LIMIT, which caps the search at a specific number of rows. This is an important feature if you want to see the partial results of a larger query.
 
-#### Where & Order By ####
+## Where & Order By ##
 
 <img src="images/WB_8.png?raw=true"/> 
 
@@ -56,7 +56,7 @@ In this second query we are expanding on the original query to both filter and s
 The WHERE clause allows you to filter you data on one or many different criteria. In this case we are filtering for all data related to the country Chile. Additionally, we can sort our data based on principal loan amount, the standard ORDER BY syntax will sort from smallest to largest for numerical data or alphabetically for qualitative data.You can include the phrase “DESC” to sort your queries in reverse order
 
 
-#### Count ####
+## Count ##
 
 __SELECT COUNT(*)__
 
@@ -69,7 +69,7 @@ __FROM world_bank__
 In addition to querying the data you can also perform calculations. One of the easiest calcualtion sto perform is counting the records of your data. In this case, we see there are ~1.1 million records in our database. One thing to note is unless you tell SQL what to name your columns, it will default to a very literal/ messy title from the query. Which bring us to our next command.
 
 
-#### Sum & As ####
+## Sum & As ##
 
 <img src="images/WB_3.png?raw=true"/> 
 <img src="images/WB_4.png?raw=true"/> 
@@ -78,7 +78,7 @@ In addition to just counting data there are many other calculations you can perf
 
 SQL will default to naming any calculated fields exactly what is in the query, so instead of having a messy column header you can use the AS function to rename your columns. See above I have the same column twice in a row, but the second time I use AS to more conveniently rename the column. 
 
-#### Group By & Min/ Max ####
+## Group By & Min/ Max ##
 
 <img src="images/WB_5.png?raw=true"/> 
 <img src="images/WB_6.png?raw=true"/>
@@ -89,7 +89,7 @@ While I wrap up this introduction to SQL article I want to introduce two more us
 
 Two other convenient calculations you can take from your data are MIN & MAX which as you would expect return the lowest and highest values for a column. In this example, it returns the lowest and highest values for each of the 13 regions that the world bank keeps data.
 
-### Conclusion ###
+## Conclusion ##
 SQL is a great tool to learn and invaluable for data analysts, but it isn't easy to pick up right away. The best way to get better at it is to practice practice practice; speifically practice with a dataset you find interesting, that you are interested in uncovering insights about. 
 SQL may seem overwhelming for someone who has never used it. If you are interested in learning SQL but don't know where to start, csvfiddle.io is a great place to begin. CSV Fiddle is a web browser that allows you to upload a csv file and begin practicing SQL without needing to download any applications to your computer. 
 
