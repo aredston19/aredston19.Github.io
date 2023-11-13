@@ -3,7 +3,8 @@
 ---
 ## Learn About My Projects
 #### [Introduction to the 21st Century NFL](https://www.linkedin.com/pulse/introduction-21st-century-nfl-andrew-redston-mlctc%3FtrackingId=73Uzu44tTIyIlTkPd5p56A%253D%253D/?trackingId=73Uzu44tTIyIlTkPd5p56A%3D%3D)
-<img src="images/World Bank Day LinkedIn Post.jpg?raw=true"/>
+<img src="images/CoverNFL.png?raw=true"/>
+
 NFL analytics
 
 ---
