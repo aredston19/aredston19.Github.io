@@ -3,7 +3,7 @@
 ---
 ## Learn About My Projects
 #### [2000s NFL Analysis Pt. 2 Data Viz](https://www.linkedin.com/pulse/2000s-nfl-analysis-pt-2-data-viz-andrew-redston-9ceuc%3FtrackingId=CiJXOX7iQEabzOr2Sznm7Q%253D%253D/?trackingId=CiJXOX7iQEabzOr2Sznm7Q%3D%3D)
-<img src="images/?.png?raw=true"/>
+<img src="images/NCF North.png?raw=true"/>
 
 NFL Analytics
 
