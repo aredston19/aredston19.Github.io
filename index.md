@@ -5,7 +5,7 @@
 #### [2000s NFL Analysis Pt. 2 Data Viz](https://www.linkedin.com/pulse/2000s-nfl-analysis-pt-2-data-viz-andrew-redston-9ceuc%3FtrackingId=CiJXOX7iQEabzOr2Sznm7Q%253D%253D/?trackingId=CiJXOX7iQEabzOr2Sznm7Q%3D%3D)
 <img src="images/NCF North.png?raw=true"/>
 
-NFL Analytics
+NFL Data Visualizations
 
 ---
 #### [Introduction to the 21st Century NFL](https://www.linkedin.com/pulse/introduction-21st-century-nfl-andrew-redston-mlctc%3FtrackingId=73Uzu44tTIyIlTkPd5p56A%253D%253D/?trackingId=73Uzu44tTIyIlTkPd5p56A%3D%3D)
