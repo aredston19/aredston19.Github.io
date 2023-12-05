@@ -5,8 +5,7 @@
 
 #### [Exciting Data Adventure in Nepal: Visualizing a Two-Week Trek with Tableau!](https://www.linkedin.com/pulse/exciting-data-adventure-nepal-visualizing-two-week-trek-redston-0su8c%3FtrackingId=ktNqN%252FTqT8O1CxST8p6bHQ%253D%253D/?trackingId=ktNqN%2FTqT8O1CxST8p6bHQ%3D%3D)
 <img src="images/Nepal.png?raw=true"/>
-
-NFL Data Visualizations
+Highest Point on the Annapurna Circuit Thorong La Pass (17,769 ft)
 
 ---
 #### [2000s NFL Analysis Pt. 2 Data Viz](https://www.linkedin.com/pulse/2000s-nfl-analysis-pt-2-data-viz-andrew-redston-9ceuc%3FtrackingId=CiJXOX7iQEabzOr2Sznm7Q%253D%253D/?trackingId=CiJXOX7iQEabzOr2Sznm7Q%3D%3D)
