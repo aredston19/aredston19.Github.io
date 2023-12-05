@@ -4,7 +4,7 @@
 ## Learn About My Projects
 
 #### [Exciting Data Adventure in Nepal: Visualizing a Two-Week Trek with Tableau!](https://www.linkedin.com/pulse/exciting-data-adventure-nepal-visualizing-two-week-trek-redston-0su8c%3FtrackingId=ktNqN%252FTqT8O1CxST8p6bHQ%253D%253D/?trackingId=ktNqN%2FTqT8O1CxST8p6bHQ%3D%3D)
-<img src="images/Nepal.png?raw=true"/>
+<img src="images/Nepal.jpeg?raw=true"/>
 Highest Point on the Annapurna Circuit Thorong La Pass (17,769 ft)
 
 ---
