@@ -4,7 +4,7 @@
 ## Learn About My Projects
 
 #### [NFL Analysis pt. 3: Python Automation](https://www.linkedin.com/pulse/nfl-analysis-pt-3-python-automation-andrew-redston-rjjhc%3FtrackingId=jzKWYE1FR%252BKboM%252BbIQHRNQ%253D%253D/?trackingId=jzKWYE1FR%2BKboM%2BbIQHRNQ%3D%3D)
-<img src="images/playoffs.jpg?raw=true"/>
+<img src="images/playoffs.png?raw=true"/>
 The infamous Jim Mora "Playoff?" rant
 
 ---
