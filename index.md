@@ -3,6 +3,12 @@
 ---
 ## Learn About My Projects
 
+#### [NFL Analysis pt. 3: Python Automation](https://www.linkedin.com/pulse/nfl-analysis-pt-3-python-automation-andrew-redston-rjjhc%3FtrackingId=jzKWYE1FR%252BKboM%252BbIQHRNQ%253D%253D/?trackingId=jzKWYE1FR%2BKboM%2BbIQHRNQ%3D%3D)
+<img src="images/jimmora.jpg?raw=true"/>
+The infamous Jim Mora "Playoff?" rant
+
+---
+
 #### [Exciting Data Adventure in Nepal: Visualizing a Two-Week Trek with Tableau!](https://www.linkedin.com/pulse/exciting-data-adventure-nepal-visualizing-two-week-trek-redston-0su8c%3FtrackingId=ktNqN%252FTqT8O1CxST8p6bHQ%253D%253D/?trackingId=ktNqN%2FTqT8O1CxST8p6bHQ%3D%3D)
 <img src="images/Nepal.jpg?raw=true"/>
 Highest Point on the Annapurna Circuit Thorong La Pass (17,769 ft)
