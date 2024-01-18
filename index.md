@@ -20,7 +20,7 @@ The Oregon Duck mascot doing Pushups mid-game.
 ### Tableau
 
 #### [2023 Year of Running](https://www.linkedin.com/feed/update/urn:li:activity:7153093570797731840/)
-[<img src="images/Pace Per Mile.png?raw=true"/>]
+<img src="images/RFR.jpg?raw=true"/>
 2023 Indianapolis Monumental Marathon
 
 #### [Exciting Data Adventure in Nepal: Visualizing a Two-Week Trek with Tableau!](https://www.linkedin.com/pulse/exciting-data-adventure-nepal-visualizing-two-week-trek-redston-0su8c%3FtrackingId=ktNqN%252FTqT8O1CxST8p6bHQ%253D%253D/?trackingId=ktNqN%2FTqT8O1CxST8p6bHQ%3D%3D)
