@@ -1,8 +1,7 @@
 # Welcome to My Portfolio
+--- 
 
----
 ## Learn About My Projects
-
 ### Python
 
 #### [NFL Analysis pt. 3: Python Automation](https://www.linkedin.com/pulse/nfl-analysis-pt-3-python-automation-andrew-redston-rjjhc%3FtrackingId=jzKWYE1FR%252BKboM%252BbIQHRNQ%253D%253D/?trackingId=jzKWYE1FR%2BKboM%2BbIQHRNQ%3D%3D)
@@ -12,7 +11,7 @@ The infamous Jim Mora "Playoff?" rant
 ---
 
 #### [Oregon Duck Pushup Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7150255035589791744/)
-<img src="images/Duck.png?raw=true"/>
+<img src="images/OregonDuck.png?raw=true"/>
 The Oregon Duck mascot doing Pushups mid-game.
 
 ---
