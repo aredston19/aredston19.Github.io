@@ -3,11 +3,25 @@
 ---
 ## Learn About My Projects
 
+### Python
+
 #### [NFL Analysis pt. 3: Python Automation](https://www.linkedin.com/pulse/nfl-analysis-pt-3-python-automation-andrew-redston-rjjhc%3FtrackingId=jzKWYE1FR%252BKboM%252BbIQHRNQ%253D%253D/?trackingId=jzKWYE1FR%2BKboM%2BbIQHRNQ%3D%3D)
 <img src="images/playoffs.png?raw=true"/>
 The infamous Jim Mora "Playoff?" rant
 
 ---
+
+#### [Oregon Duck Pushup Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7150255035589791744/)
+<img src="images/Duck.png?raw=true"/>
+The Oregon Duck mascot doing Pushups mid-game.
+
+---
+
+### Tableau
+
+####[2023 Year of Running](https://www.linkedin.com/feed/update/urn:li:activity:7153093570797731840/)
+[<img src="images/Pace Per Mile.png?raw=true"/>]
+2023 Indianapolis Monumental Marathon
 
 #### [Exciting Data Adventure in Nepal: Visualizing a Two-Week Trek with Tableau!](https://www.linkedin.com/pulse/exciting-data-adventure-nepal-visualizing-two-week-trek-redston-0su8c%3FtrackingId=ktNqN%252FTqT8O1CxST8p6bHQ%253D%253D/?trackingId=ktNqN%2FTqT8O1CxST8p6bHQ%3D%3D)
 <img src="images/Nepal.jpg?raw=true"/>
