@@ -1,8 +1,8 @@
 # Welcome to My Portfolio
 
 ## 100 Miles 100 Beers
-### Subtitle
-<img src="images/coors.png?raw=true"/>
+### [100 Miles 100 Beers](/100.md)
+<img src="images/Coors.png?raw=true"/>
 
 
 
