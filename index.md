@@ -1,7 +1,7 @@
 # Welcome to My Portfolio
 
 ## 100 Miles 100 Beers
-### [100 Miles 100 Beers](/100.md)
+### [100 Miles 100 Beers](/100.html)
 <img src="images/Coors.png?raw=true"/>
 
 
