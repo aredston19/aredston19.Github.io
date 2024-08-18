@@ -2,7 +2,7 @@
 
 ## 100 Miles 100 Beers
 ### Subtitle
-<img src="images/playoffs.png?raw=true"/>
+<img src="images/coors.png?raw=true"/>
 
 
 
