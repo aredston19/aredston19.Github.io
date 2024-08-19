@@ -23,8 +23,8 @@
     <script>
         // Initialize data
         const days = ["Day0", "Day 1", "Day 2", "Day 3", "Day 4", "Day 5", "Day 6", "Day 7"];
-        Miles = [0, 22, 22, 22, 22, 22, 22, 22]; // Example data for Variable 1
-        Beers = [0, 14, 14, 14, 14, 14, 14, 14]; // Example data for Variable 2
+        Miles = [0, 22, 33.5, 33.5, 33.5, 33.5, 33.5, 33.5]; // Example data for Variable 1
+        Beers = [0, 14, 27, 27, 27, 27, 27, 27]; // Example data for Variable 2
 
         // Create chart
         const ctx = document.getElementById('myChart').getContext('2d');
@@ -61,6 +61,7 @@
                     },
                     y: {
                         beginAtZero: true,
+			max: 100, 
                         title: {
                             display: true,
                             text: 'Value'
@@ -71,13 +72,25 @@
         });
     </script>
 
-	<p>Andrew's journey to 100 miles and 100 beers. <br>
+	<p>
+<b> Andrew's journey to 100 miles and 100 beers. </b>
+<br>
+<br>
+<b> Day 2 </b>
+<br>
+Day 2: 11.5 Miles. [33.5/100] <br>
+Day 2: 13 Beers. [27/100]<br>
+<br>
+Day 2 started with an 11.5 mile shakeout run with Josh, featuring Claire zipping around on skates. So far, 33.5 miles, a new two day milleage personal record. <br>The party continued at Wrigley field where the crowd was able to see 2000 Pedro Martinez reincarnated as Bowden Francis. The Blue Jays snuck out with a 1-0 win, a true masterclass in pitching from both Francis and Shota Imanaga, which made us forget this baseball game as exciting as watching paint dry.
+<br>
+<br>
+<b> Day 1 </b> 
 <br>
 Day 1: 22 Miles.<br>
 Day 1: 14 Beers.<br>
 <br>
-<br>
 Day 1 started with the Fleet Feet Racing Team long run where Andrew had his longest run of 2024. It was subsequently followed up with a full afternoon of beverages and some competitive Euchre. In the second and final game of a best 2 out of 3 series, Sam and Andrew defeated Michael and Matthew 10-0 in one of the most dominant Euchre performances in recent memory. 
+
 </p>
 </body>
 </html>
