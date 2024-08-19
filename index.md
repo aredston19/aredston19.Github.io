@@ -52,10 +52,6 @@ My post Indianapolis Monumental Marathon recap. I used data visualizations to te
 
 ## Additional Projects
 - [Introduction to the 21st Century NFL](https://www.linkedin.com/pulse/introduction-21st-century-nfl-andrew-redston-mlctc%3FtrackingId=73Uzu44tTIyIlTkPd5p56A%253D%253D/?trackingId=73Uzu44tTIyIlTkPd5p56A%3D%3D)
-- [World Bank](/bank.md)
-- [iFood Analysis](https://www.linkedin.com/pulse/ding-dong-delivery-food-andrew-redston%3FtrackingId=SFhDmv7hQVKCJlGObaHFKA%253D%253D/?trackingId=SFhDmv7hQVKCJlGObaHFKA%3D%3D)
-- [Massachusetts Education Project](https://www.linkedin.com/pulse/massachusetts-education-project-andrew-redston-wv5de%3FtrackingId=GQjhcl%252FkRfqYXLpvhDE8Rg%253D%253D/?trackingId=GQjhcl%2FkRfqYXLpvhDE8Rg%3D%3D)
-- [Healthcare Analysis in SQL](https://www.linkedin.com/pulse/sql-sequel-andrew-redston-kxbfc%3FtrackingId=uGbiS1Y2NUBOzdUa5SR6oA%253D%253D/?trackingId=uGbiS1Y2NUBOzdUa5SR6oA%3D%3D)
 
 
 ---
