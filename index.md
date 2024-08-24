@@ -2,7 +2,7 @@
 
 ## 100 Miles 100 Beers
 ### [100 Miles 100 Beers](/100.html)
-<img src="images/Wilt.png?raw=true"/>
+<img src="images/Wilt.jpg?raw=true"/>
 
 
 
